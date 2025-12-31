@@ -30,9 +30,7 @@ This project provides APIs to **Create, Read, Update, and Delete** student recor
 - **Spring Boot**
 - **Maven**
 - **REST API**
-- **MySQL (Configurable)**
+- **MySQL**
 
 ---
 
-# Run the project
-mvn spring-boot:run
